@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STC3-AdaptiveNanoVirus", "STC3-AdaptiveNanoVirus.csproj", "{B11602AE-838F-4FBB-AE21-EEFA5677584C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B11602AE-838F-4FBB-AE21-EEFA5677584C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11602AE-838F-4FBB-AE21-EEFA5677584C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11602AE-838F-4FBB-AE21-EEFA5677584C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11602AE-838F-4FBB-AE21-EEFA5677584C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA18B7A6-3BD2-427E-848F-C2E80AFFEFF2}
+	EndGlobalSection
+EndGlobal
